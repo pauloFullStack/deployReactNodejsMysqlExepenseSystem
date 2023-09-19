@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "user_paulo",
+    "password": "Davi91445129!",
+    "database": "expense_system",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "seu_usuario_de_producao",
+    "password": "sua_senha_de_producao",
+    "database": "nome_do_banco_de_dados_de_producao",
+    "host": "endereco_do_banco_de_dados_de_producao",
+    "dialect": "mysql"
+  }
+}
